@@ -1,0 +1,16 @@
+{
+  "name": "Aloo Chat",
+  "short_name": "Chat",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "description": "?chat app powered by SG7 (aka(_))",
+  "icons": [
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
